@@ -14,7 +14,13 @@ return [
     */
 
     'failed' => 'These credentials do not match our records.',
-    'password' => 'The provided password is incorrect.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
+    'registration_successful' => 'You have successfully registered.',
+    'login_successful' => 'Successfully logged in.',
+    'permission_denied' => 'Permission denied',
+    'logout' => 'Logout Successful.',
+    'not_found' => 'This account does not exists in our server.',
+    'same_password' => 'You are using your previous password',
+    'incorrect_password' => 'Incorrect Password',
+    'password_changed' => 'password changed successfully'
 ];
